@@ -1,5 +1,5 @@
 ## Ex03 Time Table
-## Date:23-11-2025
+## Date:24-11-2025
 ## Register Number:25000944
 
 ## AIM
@@ -112,7 +112,8 @@ Execute the program using runserver command.
 <tr>
 ~~~
 ## OUTPUT
-![alt text](<Screenshot 2025-11-23 205008.png>)
+<img width="2848" height="1504" alt="tb" src="https://github.com/user-attachments/assets/856e3b18-dd9e-4a81-9a05-80934d492658" />
+
 <img width="1920" height="1023" alt="Screenshot 2025-11-23 211105" src="https://github.com/user-attachments/assets/12eb4e77-6e47-4779-bd0e-80f1d9edd14d" />
 
 
