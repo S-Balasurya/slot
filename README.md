@@ -1,4 +1,4 @@
-# Ex03 Time Table
+<img width="1920" height="1023" alt="Screenshot 2025-11-23 211105" src="https://github.com/user-attachments/assets/bc94ea8a-bb20-468e-a116-fe61120b1a34" /># Ex03 Time Table
 ## Date:23-11-2025
 ## Register Number:25000944
 
@@ -113,6 +113,7 @@ Execute the program using runserver command.
 ~~~
 ## OUTPUT
 ![alt text](<Screenshot 2025-11-23 205008.png>)
+![alt text](Screenshot 2025-11-23 211105.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
