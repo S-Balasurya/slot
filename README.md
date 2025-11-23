@@ -112,7 +112,7 @@ Execute the program using runserver command.
 <tr>
 ~~~
 ## OUTPUT
-<img width="2848" height="1504" alt="tb" src="https://github.com/user-attachments/assets/856e3b18-dd9e-4a81-9a05-80934d492658" />
+<img width="1408" height="736" alt="tb" src="https://github.com/user-attachments/assets/09770e67-2c7c-46ef-a853-cb5d1cd4c807" />
 
 <img width="1920" height="1023" alt="Screenshot 2025-11-23 211105" src="https://github.com/user-attachments/assets/12eb4e77-6e47-4779-bd0e-80f1d9edd14d" />
 
